@@ -1,0 +1,7 @@
+---- suppport_aux_singe_no_swap Matches (6 in 4 files) ----
+customer_zy_2017bt_YDL2001_VFD_35_ac6901.h (apps\include)://#define suppport_aux_singe_no_swap   //∑¥œ‡
+Dac.c (apps\cpu\ac690x\dac):#ifdef suppport_aux_singe_no_swap
+Dac.c (apps\cpu\ac690x\dac):#ifdef suppport_aux_singe_no_swap
+Linein.c (apps\linein):#if 0//def suppport_aux_singe_no_swap
+Linein.c (apps\linein):		 #if 0//def suppport_aux_singe_no_swap
+Linein.h (apps\include\linein):#ifdef suppport_aux_singe_no_swap
